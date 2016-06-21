@@ -1,0 +1,30 @@
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bin\Debug\ReverseMap\resources.pri
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bin\Debug\AppxManifest.xml
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bin\Debug\Assignment 4.build.appxrecipe
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bld\Debug\priconfig.xml
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bld\Debug\priconfig.xml.intermediate
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bld\Debug\layout.resfiles
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bld\Debug\layout.resfiles.intermediate
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bld\Debug\resources.resfiles
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bld\Debug\resources.resfiles.intermediate
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bld\Debug\pri.resfiles
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bld\Debug\pri.resfiles.intermediate
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bld\Debug\qualifiers.txt
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bld\Debug\qualifiers.txt.intermediate
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\adam\documents\visual studio 2015\Projects\Assignment 4\Assignment 4\bld\Debug\ProjectArchitectures.txt
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bin\Debug\ReverseMap\resources.pri
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bin\Debug\AppxManifest.xml
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bin\Debug\Assignment 4.build.appxrecipe
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bld\Debug\priconfig.xml
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bld\Debug\priconfig.xml.intermediate
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bld\Debug\layout.resfiles
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bld\Debug\layout.resfiles.intermediate
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bld\Debug\resources.resfiles
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bld\Debug\resources.resfiles.intermediate
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bld\Debug\pri.resfiles
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bld\Debug\pri.resfiles.intermediate
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bld\Debug\qualifiers.txt
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bld\Debug\ProjectArchitectures.txt

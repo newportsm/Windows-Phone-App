@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>homePage</title>
+
+    <!-- WinJS references -->
+    <script src="//Microsoft.Phone.WinJS.2.1/js/base.js"></script>
+    <script src="//Microsoft.Phone.WinJS.2.1/js/ui.js"></script>
+
+    <link href="/css/default.css" rel="stylesheet" />
+    <link href="/pages/addcomic/addcomic.css" rel="stylesheet" />
+    <script src="/pages/addcomic/addcomic.js"></script>
+</head>
+<body>
+    <!-- The content that will be loaded and displayed. -->
+    <div class="fragment addcomic">
+        <header aria-label="Header content" role="banner">
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle"></span>
+            </h1>
+        </header>
+        <img src="../home/header.jpeg" />
+        <section aria-label="Main content" role="main">
+            <br />
+            <h3 style="text-align:center">Add a Comic</h3>
+            <h3 style="text-decoration: underline">Comic Information</h3>
+            <div id="main">
+                <form>
+                    Title:<input type='text' name='title' id='title' />
+                    Issue:<input type='number' name='issue' id='issue' /><br />
+                    <input type='button' value='Add' id='submit' />
+                </form>
+            </div>
+            <p id="error"></p>
+        </section>
+    </div>
+</body>
+</html>

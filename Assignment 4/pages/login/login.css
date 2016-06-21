@@ -1,0 +1,43 @@
+﻿button {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  background-color: black;
+  padding: 5px 5px 5px 5px;
+  border: solid #edeff0 2px;
+  text-decoration: none;
+}
+
+button:hover {
+  background-color: royalblue;
+  text-decoration: none;
+}
+
+table, td, th {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+}
+
+th {
+    background-color: blue;
+    color: white;
+}
+
+.login section[role=main] {
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.fragment section[role=main] {
+	width: calc(100% - 48px)
+}
+
+.fragment header[role=banner] .titlearea {
+    -ms-grid-column: 3;
+    margin-top: 37px;
+    margin-left: -96px;
+}

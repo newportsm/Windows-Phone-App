@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LENOVO-PC</Machine>
+    <WindowsUser>Sarah</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fc524f6c-8cca-40d3-bdb6-4c2f365141d3</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\css\ui-themed.css">
+      <PackagePath>css\ui-themed.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\css\ui-themed.theme-dark.css">
+      <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\css\ui-themed.theme-light.css">
+      <PackagePath>css\ui-themed.theme-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\addcomic\addcomic.css">
+      <PackagePath>pages\addcomic\addcomic.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\login\login.css">
+      <PackagePath>pages\login\login.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\signup\signup.css">
+      <PackagePath>pages\signup\signup.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\stock\stylesheet.css">
+      <PackagePath>pages\stock\stylesheet.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\viewcomics\viewcomics.css">
+      <PackagePath>pages\viewcomics\viewcomics.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\viewrequests\viewrequests.css">
+      <PackagePath>pages\viewrequests\viewrequests.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\addcomic\addcomic.js">
+      <PackagePath>pages\addcomic\addcomic.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\login\login.js">
+      <PackagePath>pages\login\login.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\signup\signup.js">
+      <PackagePath>pages\signup\signup.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\stock\script.js">
+      <PackagePath>pages\stock\script.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\viewcomics\viewcomics.js">
+      <PackagePath>pages\viewcomics\viewcomics.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\viewrequests\viewrequests.js">
+      <PackagePath>pages\viewrequests\viewrequests.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\addcomic\addcomic.html">
+      <PackagePath>pages\addcomic\addcomic.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\login\login.html">
+      <PackagePath>pages\login\login.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\signup\signup.html">
+      <PackagePath>pages\signup\signup.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\stock\page.html">
+      <PackagePath>pages\stock\page.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\viewcomics\viewcomics.html">
+      <PackagePath>pages\viewcomics\viewcomics.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\viewrequests\viewrequests.html">
+      <PackagePath>pages\viewrequests\viewrequests.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\home\header.jpeg">
+      <PackagePath>pages\home\header.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\pages\signup\header.jpeg">
+      <PackagePath>pages\signup\header.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sarah\Desktop\CS496-Assignment4\Assignment 4\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

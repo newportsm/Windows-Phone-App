@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Signup</title>
+
+    <!-- WinJS references -->
+    <script src="//Microsoft.Phone.WinJS.2.1/js/base.js"></script>
+    <script src="//Microsoft.Phone.WinJS.2.1/js/ui.js"></script>
+
+    <link href="/css/default.css" rel="stylesheet" />
+    <link href="/pages/signup/signup.css" rel="stylesheet" />
+    <script src="/pages/signup/signup.js"></script>
+</head>
+<body>
+    <!-- The content that will be loaded and displayed. -->
+    <div class="fragment signup">
+        <header aria-label="Header content" role="banner">
+            <h1 class="titlearea win-type-ellipsis">
+            </h1>
+        </header>
+        <img src="header.jpeg" />
+        <br /><br /><br />
+        <section aria-label="Main content" role="main">
+            <h3 style="text-align: center">Create an Account</h3><br />
+            <br />
+            <h3>Thank you for being interested in becoming apart of our comic community, please enter in the information below!</h3><br /><br />
+            <form>
+                Name:<input type="text" name="name" id="name"/>
+                Address:<input type="text" name="address" id="address"/><br />
+                Password:<input type="password" name="password" />
+                <input type="button" value="Submit" id="submit"/>
+            </form><br /><br />
+            <pre id="error"></pre>
+        </section>
+    </div>
+</body>
+</html>
